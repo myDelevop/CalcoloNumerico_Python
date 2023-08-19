@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="8" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.0" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:it-IT; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">Tue Jan 20 18:27:54 2015
+</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.date">Tue Jan 20 18:27:54 2015
+</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<history version="3" edit-time="162" last-saved="1421774874" uid="f903375e-a091-11e4-8be1-ebf0faa938db">
+<version id="1" started="1421750978" uid="07acb05a-a092-11e4-8be1-ebf0faa938db" auto="0" top-xid="4"/>
+<version id="3" started="1421774863" uid="aae7f0d6-a0c9-11e4-95fe-8a8cf7f52316" auto="0" top-xid="8"/>
+</history>
+<styles>
+<s type="P" name="Normal" followedby="Current Settings" props="font-family:Times New Roman; margin-top:0pt; color:000000; margin-left:0pt; text-position:normal; widows:2; font-style:normal; text-indent:0in; font-variant:normal; font-weight:normal; margin-right:0pt; font-size:12pt; text-decoration:none; margin-bottom:0pt; line-height:1.0; bgcolor:transparent; text-align:left; font-stretch:normal"/>
+</styles>
+<pagesize pagetype="A4" orientation="portrait" width="8.267717" height="11.692913" units="in" page-scale="1.000000"/>
+<section xid="1">
+<p style="Normal" xid="2" props="font-family:Times New Roman; font-size:12pt; dom-dir:ltr; color:000000; text-decoration:none; text-align:left; text-position:normal; font-weight:normal; font-style:normal"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:bold; font-style:normal; lang:it-IT">PROGRAMMA 9</c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:it-IT">:</c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:underline ; text-position:normal; font-weight:normal; font-style:normal; lang:it-IT"> RISOLVI SISTEMA</c></p>
+<p style="Normal" xid="5" props="font-family:Times New Roman; dom-dir:ltr; font-style:normal; margin-left:0.0000in; lang:it-IT; margin-bottom:0.0000in; text-indent:0.0000in; text-position:normal; margin-top:0.0000in; font-weight:normal; margin-right:0.0000in; text-decoration:none; text-align:left; line-height:1.000000; font-size:12pt"><c></c></p>
+<p style="Normal" xid="6" props="font-family:Times New Roman; dom-dir:ltr; font-style:normal; margin-left:0.0000in; lang:it-IT; margin-bottom:0.0000in; text-indent:0.0000in; text-position:normal; margin-top:0.0000in; font-weight:normal; margin-right:0.0000in; text-decoration:none; text-align:left; line-height:1.000000; font-size:12pt"><c props="font-family:Times New Roman; font-size:12pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Questo  programma ci permette di risolvere un sistema lineare del tipo Ax=b; come input avrà quindi la matrice A dei coefficienti, il vettore di incognite x e il vettore di termini noti. Viene applicato l'algoritmo di Sostituzione all' indietro ma per fare ciò la matrice deve essere necessariamente una Triangolare Superiore ottenibile attraverso l'Eliminazione di Gauss.</c></p>
+<p style="Normal" xid="7" props="font-family:Times New Roman; dom-dir:ltr; font-style:normal; margin-left:0.0000in; lang:it-IT; margin-bottom:0.0000in; text-indent:0.0000in; text-position:normal; margin-top:0.0000in; font-weight:normal; margin-right:0.0000in; text-decoration:none; text-align:left; line-height:1.000000; font-size:12pt"><c props="font-family:Times New Roman; font-size:12pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Per verificare che le soluzioni siano corrette, il vettore delle incognite potrebbe essere preimpostato con dei casi di test e viene generato il vettore dei coefficienti il quale dipenderà dal vettore di test. Il programma stampa i risultati calcolati, la soluzione attesa e l'eventuale errore nel caso i cui non coincidano.</c></p>
+<p style="Normal" xid="8" props="font-family:Times New Roman; dom-dir:ltr; font-style:normal; margin-left:0.0000in; lang:it-IT; margin-bottom:0.0000in; text-indent:0.0000in; text-position:normal; margin-top:0.0000in; font-weight:normal; margin-right:0.0000in; text-decoration:none; text-align:left; line-height:1.000000; font-size:12pt"><c props="font-family:Times New Roman; font-size:12pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Nel caso in cui la matrice A sia la matrice di Vandermonde, si può notare che l'errore è molto grande e il problema risulta quindi mal condizionato.</c>.</p>
+</section>
+</abiword>

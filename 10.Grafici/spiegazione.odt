@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="6" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.0" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:it-IT; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">Tue Jan 20 19:13:59 2015
+</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.date">Tue Jan 20 12:19:08 2015
+</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<history version="8" edit-time="570" last-saved="1421777639" uid="f903375e-a091-11e4-8be1-ebf0faa938db">
+<version id="1" started="1421750978" uid="07acb05a-a092-11e4-8be1-ebf0faa938db" auto="0" top-xid="4"/>
+<version id="2" started="1421751439" uid="1ad8d96e-a093-11e4-9f1d-d1eaa85e519f" auto="0" top-xid="4"/>
+<version id="4" started="1421752737" uid="26fc1dd4-a096-11e4-92ca-c0962fa200cf" auto="0" top-xid="5"/>
+<version id="6" started="1421752948" uid="a46c301a-a096-11e4-8809-aa4f3a2e9b15" auto="0" top-xid="6"/>
+<version id="8" started="1421777627" uid="1b1e7838-a0d0-11e4-8c11-987d743d5a4d" auto="0" top-xid="6"/>
+</history>
+<styles>
+<s type="P" name="Normal" followedby="Current Settings" props="font-weight:normal; font-family:Times New Roman; margin-top:0pt; color:000000; margin-left:0pt; text-align:left; widows:2; font-style:normal; text-indent:0in; text-position:normal; font-variant:normal; bgcolor:transparent; line-height:1.0; text-decoration:none; margin-bottom:0pt; margin-right:0pt; font-size:12pt; font-stretch:normal"/>
+</styles>
+<pagesize pagetype="A4" orientation="portrait" width="210.000000" height="297.000000" units="mm" page-scale="1.000000"/>
+<section xid="1">
+<p style="Normal" xid="2" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold">PROGRAMMA 9</c><c props="font-weight:bold"></c>:<c props="font-style:normal; text-decoration:underline"> GRAFICO1</c></p>
+<p style="Normal" xid="3"><c></c><c></c></p>
+<p style="Normal" xid="6">Questo programma ci permette di visualizzare il grafico di una funzione: viene generato un vettore x (con la <c>linspace</c>) il quale rappresenta l' intervallo in cui vogliamo visualizzare la nostra funzione,e tale intervallo sarà suddiviso in tanti sottointervalli. Per ciascun elemento di x viene calcolata la f(x) nel vettore y attraverso una funzione di numpy.</p>
+</section>
+</abiword>

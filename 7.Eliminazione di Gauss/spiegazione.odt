@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="10" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.0" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:it-IT; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">Tue Jan 20 11:48:37 2015
+</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.date">Tue Jan 20 11:48:37 2015
+</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<history version="1" edit-time="25" last-saved="1421750917" uid="d4cd07e8-a091-11e4-8743-e59b3e95aaab">
+<version id="1" started="1421750917" uid="e330ea52-a091-11e4-8743-e59b3e95aaab" auto="0" top-xid="10"/>
+</history>
+<styles>
+<s type="P" name="Normal" basedon="" followedby="Current Settings" props="font-family:Times New Roman; margin-top:0pt; font-variant:normal; margin-left:0pt; text-indent:0in; widows:2; font-style:normal; font-weight:normal; text-decoration:none; color:000000; line-height:1.0; text-align:left; margin-bottom:0pt; text-position:normal; margin-right:0pt; bgcolor:transparent; font-size:12pt; font-stretch:normal"/>
+</styles>
+<pagesize pagetype="A4" orientation="portrait" width="210.000000" height="297.000000" units="mm" page-scale="1.000000"/>
+<section xid="1">
+<p style="Normal" xid="2" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold">PROGRAMMA 7:</c><c props="text-decoration:underline"> ELIMINAZIONE GAUSS</c></p>
+<p style="Normal" xid="3"><c></c></p>
+<p style="Normal" xid="4" props="text-align:left; dom-dir:ltr">Dato un sistema Ax=b l'algoritmo Eliminazione di Gauss ci permette di trasformare la matrice A di partenza in una matrice U Triangolare Superiore in modo da risolvere tale sistema applicando la Sostituzione Indietro, per ridurre il numero di operazioni. Si noti che, dopo aver applicato l'algoritmo, il vettore x rimane invariato (quindi le soluzioni saranno calcolate correttamente), ma sia la matrice e sia il vettore vengono modificati; Il metodo di eliminazione di Gauss si basa sulle seguenti proprietà:</p>
+<p style="Normal" xid="5"><c></c></p>
+<p style="Normal" xid="6" props="text-align:left; dom-dir:ltr">Il risultato non cambia se alla matrice e al vettore:</p>
+<p style="Normal" xid="7"><c></c></p>
+<p style="Normal" xid="8" props="text-align:left; dom-dir:ltr">	 Moltiplichiamo una riga per uno scalare diverso da 0</p>
+<p style="Normal" xid="9" props="text-align:left; dom-dir:ltr">	 Scambiamo due righe</p>
+<p style="Normal" xid="10" props="text-align:left; dom-dir:ltr">	 Moltiplichiamo una riga per uno scalare diverso da 0 e sommiamo un altra riga</p>
+</section>
+</abiword>
